@@ -1,2 +1,2 @@
-# Introduction
+# 教育技术学研究方法
 
