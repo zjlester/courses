@@ -16,6 +16,7 @@
     * [ SCORM课件包的发布与LMS集成](chp02/chapter2.5_LMS_Integration.md)
 * [Chp3.专题学习网站设计与开发](chp03/chapter3_Intro.md)
     * [几种专题学习网站建设方案](chp03/chapter3.1_TechPaths_Of_LMS.md)
+    * [Git版本控制系统应用指南](chap03/chapter3.1_Git_Essentials.md)
     * [基于WordPress部署LMS](chp03/chapter3.2_Wordpress_LMS.md)
     * [Node.js、Hexo和Github制作专题学习网站](chp03/chapter3.3_Hexo_StaticSiteBuilding.md)
 * [Chp4.WAMP架构的LMS设计与开发](chp04/chapter4_Intro.md)
