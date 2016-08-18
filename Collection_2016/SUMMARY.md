@@ -6,4 +6,9 @@
 * [2016年浙江“提升工程”幼儿课程群](ICT_Training_K-Teacher.md)
 * [征集中央电教馆课题子课题项目](callForResearchPartners.md)
 * [数字公民素养教育专题](2016.8_digital_citizenship_education.md)
+<<<<<<< HEAD
 	* [调查问卷](2016.8-DigitalCitizenshipSurvey.mdown)
+=======
+	* [调查问卷](2016.8-DigitalCitizenshipSurvey.mdown)
+
+>>>>>>> 52d3abdadb721fbd3cd303c9e247b1ca81c025dc
