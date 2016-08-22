@@ -19,6 +19,7 @@
     * [基于WordPress部署LMS](chp03/chapter3.2_Wordpress_LMS.md)
     * [Node.js、Hexo和Github制作专题学习网站](chp03/chapter3.3_Hexo_StaticSiteBuilding.md)
 * [Chp4.WAMP架构的LMS设计与开发](chp04/chapter4_Intro.md)
+    * [HTML5语法快速回顾](chp04/chapter4_0_HTML5.md)
     * [AMP开源Web容器简介及新近动态](chp04/chapter4.1_AMP_Intro.md)
     * [PHP基本语法与程序逻辑](chp04/chapter4.2_PHP_Fundamentals.md)
     * [MySQL及其PHP调用方法](chp04/chapter4.3_MySQL_PHP_Connection.md)
