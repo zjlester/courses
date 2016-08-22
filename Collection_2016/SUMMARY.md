@@ -5,6 +5,10 @@
 * [从命令行升级Ubuntu发行版](UbuntuUpgrade.md)
 * [2016年浙江“提升工程”幼儿课程群](ICT_Training_K-Teacher.md)
 * [数字公民素养教育专题资料](2016.8_digital_citizenship_education.md)
+	* [中小学数字公民素养教育-刊首语](2016.8-DigitalCitizenshipPreface.mdown)
 	* [中小学生数字公民素养调查问卷](2016.8-DigitalCitizenshipSurvey.mdown)
 	* [中小学数字公民素养教育现状及建议](2016.8-DigitalCitizenshipSurvey_Result.mdown)
+	* [Digital Citizenship父母契约](resources/2016.8-DCE_Parent_pledge.md)
+	* [Digital Citizenship学生契约](resources/2016.8-DCE_Student_pledge.md)
+
 
