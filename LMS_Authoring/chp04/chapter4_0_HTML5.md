@@ -21,4 +21,13 @@ HTML5语法快速回顾
 3. Notepad ++
 	看名字大概可以猜出这个软件的作者要开发的是一个记事本程序的增强版，这个免费的Windows程序同样支持语法着色等编辑辅助工具，还集成了诸如FTP等功能。
 4. Edit Plus
-	Edit Plus是之前我使用的一个代码编辑软件，在界面与功能上与Notepad ++比较地相像，但它是一个收费软件。与之类似的还有Ultra Edit等。
+	Edit Plus是之前我使用的一个代码编辑软件，在界面与功能上与Notepad ++比较地相像，但它是一个收费软件。与之类似的还有Ultra Edit等
+
+#### 3. Sublime编辑器常用技巧
+
+1. 多行游标功能
+	按Ctrl+D，按多次选择，按Ctrl+K跳过。
+2. 复制多行
+	Ctrl+Shift+D
+	Alt+F3多选
+	或Shift+右键
