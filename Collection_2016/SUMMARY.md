@@ -10,5 +10,6 @@
 	* [中小学数字公民素养教育现状及建议](2016.8-DigitalCitizenshipSurvey_Result.mdown)
 	* [Digital Citizenship父母契约](resources/2016.8-DCE_Parent_pledge.md)
 	* [Digital Citizenship学生契约](resources/2016.8-DCE_Student_pledge.md)
-
+* [普高名师工作站课题相关资料](TeacherPDWorkshop/project2016.md)
+	*[2016省微课大赛片头片尾](TeacherPDWorkshop/microlectures_title.md)
 
